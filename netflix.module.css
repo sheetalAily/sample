@@ -1,0 +1,36 @@
+
+.a ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+
+    
+}
+.a ul li a{ 
+    text-decoration: none;
+    /* margin-left: 50px; */
+    color: aliceblue;
+}
+.a ul li{
+    margin-left: 50px;
+}
+img{
+    height: 50px;
+    width: 100px;
+
+}
+
+.main{
+    display: flex;
+    background-color: black;
+    align-items: center;
+    height: 75px;
+}
+.btn{
+    margin-left: 960px;
+   
+}
+input{
+    margin-top: -50px;
+}
+
