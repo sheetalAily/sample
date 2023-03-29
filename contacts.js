@@ -1,0 +1,62 @@
+const contacts=[
+    {
+        photo:"https://avatars.dicebear.com/v2/avataaars/Antonette.svg?options[mood][]=happy",
+        name:"boss",
+        email:"ebhsdb@gmail.com",
+        phone:"123456789",
+        website:"https://shiuvhsi.org",
+        emoji:"❤️",
+        
+    },
+    {
+        photo:"https://avatars.dicebear.com/v2/avataaars/Samantha.svg?options[mood][]=happy",
+        name:"pinki",
+        email:"ebhsdb@gmail.com",
+        phone:"123456789",
+        website:"https://shiuvhsi.org",
+        emoji:"❤️"
+    },
+    {
+        photo:"https://avatars.dicebear.com/v2/avataaars/Karianne.svg?options[mood][]=happy",
+        name:"dinga",
+        phone:"123456789",
+        email:"ebhsdb@gmail.com",
+        website:"https://shiuvhsi.org",
+        emoji:"❤️"
+    },
+    {
+        photo:"https://avatars.dicebear.com/v2/avataaars/Kamren.svg?options[mood][]=happy",
+        name:"Dingi",
+        phone:"123456789",
+        email:"ebhsdb@gmail.com",
+        website:"https://shiuvhsi.org",
+        emoji:"❤️"
+    },
+    {
+        photo:"https://avatars.dicebear.com/v2/avataaars/Bret.svg?options[mood][]=happy",
+        name:"svbsu",
+        phone:"123456789",
+        email:"ebhsdb@gmail.com",
+        website:"https://shiuvhsi.org",
+        emoji:"❤️"
+    },
+    {
+        photo:"https://avatars.dicebear.com/v2/avataaars/Kamren.svg?options[mood][]=happy",
+        name:"nvjksdnv",
+        phone:"123456789",
+        email:"ebhsdb@gmail.com",
+        website:"https://shiuvhsi.org",
+        emoji:"❤️"
+    },
+    {
+        photo:"https://avatars.dicebear.com/v2/avataaars/Leopoldo_Corkery.svg?options[mood][]=happy",
+        name:"nvjksdnv",
+        phone:"123456789",
+        email:"ebhsdb@gmail.com",
+        website:"https://shiuvhsi.org",
+        emoji:"❤️"
+    }
+
+
+];
+export default contacts
